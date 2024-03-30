@@ -1,0 +1,39 @@
+header{
+    background-color:burlywood;
+    margin: 0%;
+    padding: 10px;
+    font-size: x-large;
+}
+Ul li{
+    list-style: none;
+}
+ul a{
+    text-decoration: none;
+    color: black;
+}
+a:hover{
+    color: blue;
+}
+nav ul{
+    display: flex;
+    justify-content: space-around;
+}
+body{
+    margin: 0%;
+    background-color: antiquewhite;
+}
+table,th, td{
+    border: 3px solid black;
+    margin: 0%;
+    padding: 10px;
+    font-size: large;
+}
+.center{
+    margin-left: auto;
+    margin-right: auto;
+}
+h1{
+    padding: 30px ;
+    text-align: center;
+
+}
